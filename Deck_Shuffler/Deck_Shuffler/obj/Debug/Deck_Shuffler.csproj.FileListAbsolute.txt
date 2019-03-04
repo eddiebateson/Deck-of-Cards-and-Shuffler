@@ -1,0 +1,7 @@
+C:\Users\Edward.Bateson\source\repos\Deck_Shuffler\Deck_Shuffler\bin\Debug\Deck_Shuffler.exe.config
+C:\Users\Edward.Bateson\source\repos\Deck_Shuffler\Deck_Shuffler\bin\Debug\Deck_Shuffler.exe
+C:\Users\Edward.Bateson\source\repos\Deck_Shuffler\Deck_Shuffler\bin\Debug\Deck_Shuffler.pdb
+C:\Users\Edward.Bateson\source\repos\Deck_Shuffler\Deck_Shuffler\obj\Debug\Deck_Shuffler.csprojAssemblyReference.cache
+C:\Users\Edward.Bateson\source\repos\Deck_Shuffler\Deck_Shuffler\obj\Debug\Deck_Shuffler.csproj.CoreCompileInputs.cache
+C:\Users\Edward.Bateson\source\repos\Deck_Shuffler\Deck_Shuffler\obj\Debug\Deck_Shuffler.exe
+C:\Users\Edward.Bateson\source\repos\Deck_Shuffler\Deck_Shuffler\obj\Debug\Deck_Shuffler.pdb
